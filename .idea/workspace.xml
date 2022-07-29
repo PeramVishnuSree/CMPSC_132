@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cc14d7a-3ed6-43c5-afd2-db9413fc1462" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23X3sKyFXmxXeVs7nmhu9FaEvs8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc14d7a-3ed6-43c5-afd2-db9413fc1462" name="Changes" comment="" />
+      <created>1641866809693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641866809693</updated>
+      <workItem from="1641866811195" duration="493000" />
+      <workItem from="1641867616019" duration="76000" />
+      <workItem from="1641868000182" duration="1818000" />
+      <workItem from="1642116389602" duration="1766000" />
+      <workItem from="1642519392991" duration="5018000" />
+      <workItem from="1642721657308" duration="690000" />
+      <workItem from="1642882315202" duration="15045000" />
+      <workItem from="1643666497382" duration="4683000" />
+      <workItem from="1643910308862" duration="11117000" />
+      <workItem from="1643929510842" duration="8983000" />
+      <workItem from="1644034482295" duration="779000" />
+      <workItem from="1644436925915" duration="7884000" />
+      <workItem from="1644684499820" duration="16944000" />
+      <workItem from="1645221005416" duration="6046000" />
+      <workItem from="1645498627221" duration="4512000" />
+      <workItem from="1645898818978" duration="9357000" />
+      <workItem from="1646348804940" duration="2719000" />
+      <workItem from="1646406828128" duration="22265000" />
+      <workItem from="1647532890408" duration="15480000" />
+      <workItem from="1648160118510" duration="1540000" />
+      <workItem from="1648909026937" duration="6055000" />
+      <workItem from="1649631303115" duration="11078000" />
+      <workItem from="1649830965699" duration="144000" />
+      <workItem from="1649974066498" duration="3345000" />
+      <workItem from="1650069114517" duration="15558000" />
+      <workItem from="1650579130490" duration="3164000" />
+      <workItem from="1650676877592" duration="5672000" />
+      <workItem from="1650728422318" duration="2882000" />
+      <workItem from="1651164644875" duration="37000" />
+      <workItem from="1653024324419" duration="95000" />
+      <workItem from="1653024628337" duration="179000" />
+      <workItem from="1653079346118" duration="1178000" />
+      <workItem from="1653339516798" duration="365000" />
+      <workItem from="1653445759156" duration="195000" />
+      <workItem from="1653805464234" duration="244000" />
+      <workItem from="1656383170013" duration="203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
